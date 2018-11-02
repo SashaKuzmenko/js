@@ -1,4 +1,4 @@
-# js
+# js 
 var bind = function (arg1) {
     var arity = arg1.length
   
